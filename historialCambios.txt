@@ -1,0 +1,4 @@
+null
+2024-04-25 12:58:15 ------ El valor de 3000000.0 ARS es igual a: 3433.444496035214 USD
+2024-04-25 12:58:20 ------ El valor de 300200.0 BRL es igual a: 58104.32154591184 USD
+2024-04-25 12:58:25 ------ El valor de 2003.0 EUR es igual a: 2149.4691178825 USD
